@@ -2,7 +2,7 @@
 
 A curated list of awesome dependency check resources.
 
-## Specifications
+## Tools / services to check status of dependencies
 
 * [Snyk](https://snyk.io/) - Core.
 * [Node Security](https://nodesecurity.io/) - Instant Messaging and Presence.
