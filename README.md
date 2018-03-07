@@ -12,7 +12,7 @@ A curated list of awesome dependency check resources.
 * [Gemnasium](https://gemnasium.com/) - Gemnasium.
 * [SourceClear](https://www.sourceclear.com/) - Source Clear.
 * [Hakiri](https://hakiri.io/) - Hakiri.
-* []() - .
+* [bundler-audit](https://github.com/rubysec/bundler-audit) - bundler-audit.
 * []() - .
 * []() - .
 * []() - .
