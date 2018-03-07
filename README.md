@@ -19,8 +19,8 @@ A curated list of awesome dependency check resources.
 * [Pyup](https://pyup.io/) - Security checks in Python projects.
 * [Requires.io](https://requires.io/) - Security checks in Python projects.
 * [David DM](https://david-dm.org/) - Security checks in NodeJS projects.
-* []() - .
-* []() - .
+* [Libraries.io](https://libraries.io/) - Platform with an API and support for several languages (JAVA, NodeJS, Python etc(.
+* [Tidelift](https://tidelift.com/) - Commercial spin-off of Libraries.io
 * []() - .
 * []() - .
 * []() - .
