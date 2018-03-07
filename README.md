@@ -10,7 +10,7 @@ A curated list of awesome dependency check resources.
 * [White Source Software](https://www.whitesourcesoftware.com/) - White Source Software.
 * [Greenkeeper](https://greenkeeper.io/) - Greenkeeper.
 * [Gemnasium](https://gemnasium.com/) - Gemnasium.
-* []() - .
+* [SourceClear](https://www.sourceclear.com/) - Source Clear.
 * []() - .
 
 ## License
