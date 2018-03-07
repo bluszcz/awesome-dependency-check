@@ -4,8 +4,8 @@ A curated list of awesome dependency check resources.
 
 ## Tools / services to check status of dependencies
 
-* [Snyk](https://snyk.io/) - Snyk.
-* [Node Security](https://nodesecurity.io/) - Node Security.
+* [Snyk](https://snyk.io/) - Security checks for NodeJS, Python, Java, PHP and several other languages. Commercial with on premise option.
+* [Node Security](https://nodesecurity.io/) - Security checks for NodeJS.
 * [RetireJS](https://github.com/RetireJS/retire.js) - RetireJS.
 * [White Source Software](https://www.whitesourcesoftware.com/) - White Source Software.
 * [Greenkeeper](https://greenkeeper.io/) - Greenkeeper.
