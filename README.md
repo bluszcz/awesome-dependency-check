@@ -16,7 +16,7 @@ A curated list of awesome dependency check resources.
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - OWASP Dependency Check.
 * [Sonatype OSS Index](https://ossindex.net/) - Sonatype OSS Index.
 * [Prospector](http://www.gemprospector.com/) - http://www.gemprospector.com/.
-* []() - .
+* [Pyup](https://pyup.io/) - Security checks in Python projects.
 * []() - .
 
 
