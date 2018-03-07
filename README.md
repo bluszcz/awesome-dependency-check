@@ -10,16 +10,16 @@ A curated list of awesome dependency check resources.
 * [White Source Software](https://www.whitesourcesoftware.com/) - NodeJS, Python, Java, PHP and several other languages. Commercial with an enterprise.
 * [Greenkeeper](https://greenkeeper.io/) - NodeJS.
 * [Gemnasium](https://gemnasium.com/) -  NodeJS, Python, Java, PHP and several other languages.
-* [SourceClear](https://www.sourceclear.com/) - Source Clear.
-* [Hakiri](https://hakiri.io/) - Hakiri.
-* [bundler-audit](https://github.com/rubysec/bundler-audit) - bundler-audit.
-* [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - OWASP Dependency Check.
-* [Sonatype OSS Index](https://ossindex.net/) - Sonatype OSS Index.
-* [Prospector](http://www.gemprospector.com/) - http://www.gemprospector.com/.
-* [Pyup](https://pyup.io/) - Security checks in Python projects.
-* [Requires.io](https://requires.io/) - Security checks in Python projects.
-* [David DM](https://david-dm.org/) - Security checks in NodeJS projects.
-* [Libraries.io](https://libraries.io/) - Platform with an API and support for several languages (JAVA, NodeJS, Python etc(.
+* [SourceClear](https://www.sourceclear.com/) -  Javascript, Python, Java, PHP and several other languages. Commercial.
+* [Hakiri](https://hakiri.io/) - Ruby.
+* [bundler-audit](https://github.com/rubysec/bundler-audit) - Ruby.
+* [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - Java and .NET.
+* [Sonatype OSS Index](https://ossindex.net/) - NodeJS, Python, Java, PHP and several other languages.
+* [Prospector](http://www.gemprospector.com/) - Ruby.
+* [Pyup](https://pyup.io/) - Python.
+* [Requires.io](https://requires.io/) - Python.
+* [David DM](https://david-dm.org/) - NodeJS.
+* [Libraries.io](https://libraries.io/) - NodeJS, Python, Java, PHP and several other languages.
 * [Tidelift](https://tidelift.com/) - Commercial spin-off of Libraries.io
 
 ## License
