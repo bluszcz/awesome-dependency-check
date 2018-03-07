@@ -4,8 +4,8 @@ A curated list of awesome dependency check resources.
 
 ## Tools / services to check status of dependencies
 
-* [Snyk](https://snyk.io/) - Core.
-* [Node Security](https://nodesecurity.io/) - Instant Messaging and Presence.
+* [Snyk](https://snyk.io/) - Snyk.
+* [Node Security](https://nodesecurity.io/) - Node Security.
 * [RetireJS](https://github.com/RetireJS/retire.js) - RetireJS.
 * [White Source Software](https://www.whitesourcesoftware.com/) - White Source Software.
 * [Greenkeeper](https://greenkeeper.io/) - Greenkeeper.
@@ -17,7 +17,15 @@ A curated list of awesome dependency check resources.
 * [Sonatype OSS Index](https://ossindex.net/) - Sonatype OSS Index.
 * [Prospector](http://www.gemprospector.com/) - http://www.gemprospector.com/.
 * [Pyup](https://pyup.io/) - Security checks in Python projects.
-* []() - .
+* [Requires.io](https://requires.io/) - Security checks in Python projects.
+* [] () - .
+* [] () - .
+* [] () - .
+* [] () - .
+* [] () - .
+* [] () - .
+* [] () - .
+
 
 
 
