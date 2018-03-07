@@ -7,9 +7,9 @@ A curated list of awesome dependency check resources.
 * [Snyk](https://snyk.io/) - NodeJS, Python, Java, PHP and several other languages. Commercial with on premise option.
 * [Node Security](https://nodesecurity.io/) - NodeJS.
 * [RetireJS](https://github.com/RetireJS/retire.js) - Client Javascript and NodeJS.
-* [White Source Software](https://www.whitesourcesoftware.com/) - White Source Software.
-* [Greenkeeper](https://greenkeeper.io/) - Greenkeeper.
-* [Gemnasium](https://gemnasium.com/) - Gemnasium.
+* [White Source Software](https://www.whitesourcesoftware.com/) - NodeJS, Python, Java, PHP and several other languages. Commercial with an enterprise.
+* [Greenkeeper](https://greenkeeper.io/) - NodeJS.
+* [Gemnasium](https://gemnasium.com/) -  NodeJS, Python, Java, PHP and several other languages.
 * [SourceClear](https://www.sourceclear.com/) - Source Clear.
 * [Hakiri](https://hakiri.io/) - Hakiri.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - bundler-audit.
