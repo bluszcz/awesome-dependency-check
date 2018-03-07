@@ -9,7 +9,7 @@ A curated list of awesome dependency check resources.
 * [RetireJS](https://github.com/RetireJS/retire.js) - RetireJS.
 * [White Source Software](https://www.whitesourcesoftware.com/) - White Source Software.
 * [Greenkeeper](https://greenkeeper.io/) - Greenkeeper.
-* []() - .
+* [Gemnasium](https://gemnasium.com/) - Gemnasium.
 * []() - .
 * []() - .
 
