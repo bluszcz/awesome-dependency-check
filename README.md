@@ -13,7 +13,7 @@ A curated list of awesome dependency check resources.
 * [SourceClear](https://www.sourceclear.com/) - Source Clear.
 * [Hakiri](https://hakiri.io/) - Hakiri.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - bundler-audit.
-* []() - .
+* [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - OWASP Dependency Check.
 * []() - .
 * []() - .
 * []() - .
