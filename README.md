@@ -11,7 +11,15 @@ A curated list of awesome dependency check resources.
 * [Greenkeeper](https://greenkeeper.io/) - Greenkeeper.
 * [Gemnasium](https://gemnasium.com/) - Gemnasium.
 * [SourceClear](https://www.sourceclear.com/) - Source Clear.
+* [Hakiri](https://hakiri.io/) - Hakiri.
 * []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+
+
 
 ## License
 
