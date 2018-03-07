@@ -4,9 +4,9 @@ A curated list of awesome dependency check resources.
 
 ## Tools / services to check status of dependencies
 
-* [Snyk](https://snyk.io/) - Security checks for NodeJS, Python, Java, PHP and several other languages. Commercial with on premise option.
-* [Node Security](https://nodesecurity.io/) - Security checks for NodeJS.
-* [RetireJS](https://github.com/RetireJS/retire.js) - RetireJS.
+* [Snyk](https://snyk.io/) - NodeJS, Python, Java, PHP and several other languages. Commercial with on premise option.
+* [Node Security](https://nodesecurity.io/) - NodeJS.
+* [RetireJS](https://github.com/RetireJS/retire.js) - Client Javascript and NodeJS.
 * [White Source Software](https://www.whitesourcesoftware.com/) - White Source Software.
 * [Greenkeeper](https://greenkeeper.io/) - Greenkeeper.
 * [Gemnasium](https://gemnasium.com/) - Gemnasium.
@@ -21,10 +21,6 @@ A curated list of awesome dependency check resources.
 * [David DM](https://david-dm.org/) - Security checks in NodeJS projects.
 * [Libraries.io](https://libraries.io/) - Platform with an API and support for several languages (JAVA, NodeJS, Python etc(.
 * [Tidelift](https://tidelift.com/) - Commercial spin-off of Libraries.io
-* []() - .
-* []() - .
-* []() - .
-* []() - .
 
 ## License
 
