@@ -20,7 +20,9 @@ A curated list of awesome dependency check resources.
 * [Requires.io](https://requires.io/) - Python.
 * [David DM](https://david-dm.org/) - NodeJS.
 * [Libraries.io](https://libraries.io/) - NodeJS, Python, Java, PHP and several other languages.
-* [Tidelift](https://tidelift.com/) - Commercial spin-off of Libraries.io
+* [Tidelift](https://tidelift.com/) - Commercial spin-off of Libraries.io.
+* [Appcanary](https://appcanary.com/) - Commercial, purchased by Github.
+* [Rubysec](https://www.rubysec.com/) - Security resources for Ruby community.
 
 ## License
 
