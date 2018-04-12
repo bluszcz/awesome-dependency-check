@@ -23,6 +23,7 @@ A curated list of awesome dependency check resources.
 * [Tidelift](https://tidelift.com/) - Commercial spin-off of Libraries.io.
 * [Appcanary](https://appcanary.com/) - Commercial, purchased by Github.
 * [Rubysec](https://www.rubysec.com/) - Security resources for Ruby community.
+* [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 
 ## License
 
