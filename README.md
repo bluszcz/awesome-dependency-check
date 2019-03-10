@@ -4,7 +4,7 @@ A curated list of awesome dependency check resources.
 
 ## Tools / services to check status of dependencies
 
-* [Snyk](https://snyk.io/) - NodeJS, Python, Java, PHP and several other languages. Commercial with on premise option.
+* [Snyk](https://snyk.io/) - NodeJS, Python, Java, PHP and several other languages, but also Docker images. Commercial with on premise option.
 * [Node Security](https://nodesecurity.io/) - NodeJS.
 * [RetireJS](https://github.com/RetireJS/retire.js) - Client Javascript and NodeJS.
 * [White Source Software](https://www.whitesourcesoftware.com/) - NodeJS, Python, Java, PHP and several other languages. Commercial with an enterprise.
