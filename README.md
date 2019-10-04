@@ -24,6 +24,7 @@ A curated list of awesome dependency check resources.
 * [Appcanary](https://appcanary.com/) - Commercial, purchased by Github.
 * [Rubysec](https://www.rubysec.com/) - Security resources for Ruby community.
 * [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
+* [Hadolint] (https://github.com/hadolint/hadolint) - Dockerfile linter that helps you build images based on best practice rules. 
 
 ## License
 
